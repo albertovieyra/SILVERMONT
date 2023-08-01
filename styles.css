@@ -51,6 +51,12 @@ header {
     background: rgba(0, 0, 0, 0.262);
 }
 
+.navbar {
+    height: 100px;
+    display: flex;
+    align-items: center;
+}
+
 .navbar,
 ul {
     display: flex;
